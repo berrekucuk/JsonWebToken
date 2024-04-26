@@ -1,0 +1,6 @@
+@_03.JsonWebToken_HostAddress = http://localhost:5008
+
+GET {{_03.JsonWebToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
